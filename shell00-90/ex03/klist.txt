@@ -1,0 +1,6 @@
+klist >> klist.txt
+Credentials cache: API:5BE46292-1464-44C5-8301-359EDF469C24
+        Principal: ekutlay@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 28 01:25:24 2021  Oct 28 11:25:24 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
